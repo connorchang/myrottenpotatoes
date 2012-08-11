@@ -58,6 +58,6 @@ Myrottenpotatoes::Application.routes.draw do
   resources :movies
   root :to => redirect('/movies')
 end
-# this is for testing
+# this is for testing 3
 # Rottenpotatoes::Application.routes.draw do
 # end
